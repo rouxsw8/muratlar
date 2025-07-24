@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "https://muratlarişmakineleri.com",
+      "destination": "https://www.muratlarişmakineleri.com",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "/index.html",
+      "statusCode": 200
+    }
+  ]
+}
